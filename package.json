@@ -1,0 +1,23 @@
+{
+  "name": "npm-v",
+  "version": "0.0.0",
+  "description": "Get installed npm version",
+  "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh/)",
+  "license": "MIT",
+  "repository": "ngryman/npm-v",
+  "keywords": [
+    "npm",
+    "version",
+    "global"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava",
+    "dev": "ava -w"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
