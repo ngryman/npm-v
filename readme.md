@@ -2,8 +2,13 @@
 
 > Get installed npm version
 
+[![travis][travis-image]][travis-url]
 
-Yup it only do that :tada:
+[travis-image]: https://img.shields.io/travis/ngryman/npm-v.svg?style=flat
+[travis-url]: https://travis-ci.org/ngryman/npm-v
+
+
+Yup it only does that :tada:
 
 
 ## Install
