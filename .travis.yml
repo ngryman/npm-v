@@ -8,6 +8,7 @@ branches:
   only:
     - master
     - /^greenkeeper-.*$/
+    - /^greenkeeper/.*$/
 notifications:
   email: false
 node_js:
