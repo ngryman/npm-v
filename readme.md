@@ -1,5 +1,7 @@
 # npm-v
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/npm-v.svg)](https://greenkeeper.io/)
+
 > Get installed npm version
 
 [![travis][travis-image]][travis-url]
